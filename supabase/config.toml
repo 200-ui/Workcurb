@@ -1,0 +1,14 @@
+
+project_id = "xtzejrhycyytxoefxzzm"
+
+[functions.send-contact-email]
+verify_jwt = false
+
+[functions.send-booking-email]
+verify_jwt = false
+
+[functions.send-purchase-confirmation]
+verify_jwt = false
+
+[functions.send-employee-onboarding]
+verify_jwt = false
