@@ -1,1 +1,1 @@
-WorkCurb - Employee Scheduling and Wokr
+WorkCurb - Employee Scheduling and WorkForce Management through Automation.
