@@ -357,7 +357,7 @@ Response Rules:
           <div className="fixed bottom-24 right-6 w-96 h-[500px] bg-white rounded-lg shadow-2xl border z-50 flex flex-col overflow-hidden border-gray-200">
             {/* Header */}
             <header className="bg-gradient-to-r from-green-600 to-green-700 p-4 text-white flex justify-between items-center rounded-t-lg">
-              <h2 className="text-xl font-bold">WorkCurb AI Assistant</h2>
+              <h2 className="text-xl font-bold">WorkCurb AI Chat Assistant</h2>
               <button
                 onClick={() => setIsChatOpen(false)}
                 className="text-white hover:text-gray-200 focus:outline-none"
