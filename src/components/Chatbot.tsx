@@ -357,7 +357,7 @@ Response Rules:
           <div className="fixed bottom-24 right-6 w-96 h-[500px] bg-white rounded-lg shadow-2xl border z-50 flex flex-col overflow-hidden border-gray-200">
             {/* Header */}
             <header className="bg-gradient-to-r from-green-600 to-green-700 p-4 text-white flex justify-between items-center rounded-t-lg">
-              <h2 className="text-xl font-bold">WorkCurb Assistant</h2>
+              <h2 className="text-xl font-bold">WorkCurb AI Assistant</h2>
               <button
                 onClick={() => setIsChatOpen(false)}
                 className="text-white hover:text-gray-200 focus:outline-none"
@@ -386,7 +386,7 @@ Response Rules:
                 <div className="text-center text-gray-500 mt-10">
                   {config.geminiApiKey ? (
                     <p className="text-base">
-                      Hello! How can I help you with WorkCurb?
+                      Hello! I am an AI powered ChatBot <br/> How can I help you with WorkCurb?
                     </p>
                   ) : (
                     <div className="text-center p-4">
